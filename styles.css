@@ -1,0 +1,53 @@
+
+
+.header{
+  display: flex;
+}
+.text{
+  margin-top:0.7%;
+}
+.fas{
+padding: 1%;
+color: #435560;
+}
+.first {
+  margin-left: 80%;
+}
+.fourth{
+padding: 0.5%;
+}
+.text{
+  padding: 0.01%;
+}
+body{
+  background-color: #D3E0EA;
+}
+.search-bar{
+  display: flex;
+}
+.search-item{
+  display: flex;
+  padding: 0% 3%;
+}
+.search{
+  padding: 3%;
+  background-color: #F9F9F9;
+  margin: 1% 2%;
+}
+form{
+    margin: auto;
+}
+
+.navbar-brand{
+  padding: 3%;
+  margin-left: 20%;
+  color:  #435560;
+  font-size: 2rem;
+  font-weight: 400;
+}
+.table{
+  background-color: #F9F9F9;
+  }
+  .color{
+    color: blue;
+  }
